@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparisonTime", "ComparisonTime\ComparisonTime.csproj", "{9C45FE97-C92C-44AA-A3AE-DB6C1163194E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release Candidate|Any CPU = Release Candidate|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C45FE97-C92C-44AA-A3AE-DB6C1163194E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C45FE97-C92C-44AA-A3AE-DB6C1163194E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C45FE97-C92C-44AA-A3AE-DB6C1163194E}.Release Candidate|Any CPU.ActiveCfg = Release Candidate|Any CPU
+		{9C45FE97-C92C-44AA-A3AE-DB6C1163194E}.Release Candidate|Any CPU.Build.0 = Release Candidate|Any CPU
+		{9C45FE97-C92C-44AA-A3AE-DB6C1163194E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C45FE97-C92C-44AA-A3AE-DB6C1163194E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4780A445-6F4C-4846-89C1-12360999A4CA}
+	EndGlobalSection
+EndGlobal
